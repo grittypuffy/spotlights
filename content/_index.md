@@ -14,13 +14,4 @@ By providing a space for our first-time contributors to share their journeys, we
 
 We also shed spotlight and acknowledge our mentor's supportive guidance to our first-time contributors, highlighting the importance of giving back in the free software ecosystem.
 
-# Support us
-
-FOSSIA would not exist without your support. You can help us in multiple ways:
-
-- [Spread the word about our projects by writing blogs or on social media](https://fossia.org/projects)
-- [Show love for our projects by starring our repositories](https://github.com/fossiaorg)
-- [Contribute to our projects in our mentoring cohorts](https://fossia.org/mentorship)
-- [Provide mentorship for our mentoring cohorts](https://fossia.org/mentorship)
-- [Contribute code and documentation to our projects](https://github.com/fossiaorg)
-- [Volunteer for organizing our events](https://fossia.org/events)
+[Contribute or help us in mentoring maintain our projects to get featured and share your insights with the community](https://github.com/fossiaorg/spotlights/blob/main/CONTRIBUTING.md)

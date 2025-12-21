@@ -1,5 +1,5 @@
 +++
-# Name the file as <your-name>--<your-title>
+# Name the file as <yyyy>-<mm>-<your-name>--<your-title> where yyyy is year and mm is month
 # Ensure it doesn't contain special characters other than hyphens (-)
 # Example: If your name is "abc" and your title is "contributing to transcribeit: a beginner's first step", your file name will be:
 # abc--contributing-to-transcribeit-a-beginners-first-step
