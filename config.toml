@@ -1,4 +1,4 @@
-base_url = "https://spotlights.fossia.org"
+base_url = "/"
 title = "FOSSIA Spotlights"
 description = "Shining spotlight on FOSSIA's first time contributors and mentors"
 default_language = "en"
