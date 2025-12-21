@@ -1,8 +1,8 @@
 +++
 # Name the file as <your-name>--<your-title>
-# Ensure it doesn't contain special characters other than underscore (_) or hyphens (-)
+# Ensure it doesn't contain special characters other than hyphens (-)
 # Example: If your name is "abc" and your title is "contributing to transcribeit: a beginner's first step", your file name will be:
-# abc--contributing_to_transcribeit_a_beginners_first_step
+# abc--contributing-to-transcribeit-a-beginners-first-step
 # Place in the content/spotlight/contributor folder for the year and month you're writing this blogpost
 
 title = "<your-title>" # Give an interesting title you would like to use here. Example: Making my first contribution to TranscribeIt.
