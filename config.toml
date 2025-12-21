@@ -1,0 +1,26 @@
+base_url = "https://spotlights.fossia.org"
+title = "FOSSIA Spotlights"
+description = "Shining spotlight on FOSSIA's first time contributors and mentors"
+default_language = "en"
+compile_sass = true
+build_search_index = true
+output_dir = 'public'
+theme = 'zola-spotlights-theme'
+
+taxonomies = [
+    { name = "contributor", lang = "en", rss = true },
+    { name = "mentor", lang = "en", rss = true }
+]
+
+[markdown]
+highlight_code = false
+
+[extra]
+keywords = "contribution, mentoring, transcribeit"
+menu_links = [
+    { url = "$BASE_URL/", name = "About" },
+    { url = "$BASE_URL/spotlight/contributor/", name = "Contributors" },
+    { url = "$BASE_URL/spotlight/mentor/", name = "Mentors" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
+    { url = "$BASE_URL/search/", name = "Search" },
+]

@@ -1,0 +1,3 @@
+[submodule "themes/zola-spotlights-theme"]
+	path = themes/zola-spotlights-theme
+	url = https://github.com/fossiaorg/zola-spotlights-theme
