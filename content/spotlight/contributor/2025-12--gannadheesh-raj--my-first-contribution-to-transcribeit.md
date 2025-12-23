@@ -9,7 +9,7 @@ author = "Gannadheesh Raj"
 Hello everyone, I’m Gannadheesh, an electrical engineering student and a developer passionate about building practical tools and understanding how software works under the hood.
 
 # What made you get into free and open source ecosystem?
-Long story short, after some blind R&D, I tried booting and using Linux on my old laptop a few years back to improve its efficiency. Further down the lane, I got very attached to the philosophy behind the ecosystem. It also gave me deep knowledge of how computers and software actually work, which hooked me completely.
+Long story short, after some basic R&D, I tried booting and using Linux on my old laptop a few years back to improve its efficiency. Further down the lane, I got very attached to the philosophy behind the ecosystem. It also gave me deep knowledge of how computers and software actually work, which hooked me completely.
 
 # How did you come across FOSSIA?
 I follow Keerthana (aka grittypuffy) on GitHub. While randomly exploring GitHub, I came across her new project, TranscribeIt. As I tried to understand the project, I later learned about FOSSIA through it.
